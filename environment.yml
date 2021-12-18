@@ -7,4 +7,3 @@ dependencies:
   - tqdm
   - flatten_json
   - pandas
-prefix: /opt/homebrew/Caskroom/miniconda/base/envs/intermed-apis
