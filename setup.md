@@ -8,7 +8,7 @@ Detailed installation instructions for various operating systems can be found
 on The Carpentries <a href="https://carpentries.github.io/workshop-template/#python">template website for workshops</a>
 and in <a href="https://docs.anaconda.com/anaconda/install">Anaconda documentation</a>.
 
-If you don't have Jupyter or another Python environment set up, you can use [Google Colab](https://colab.research.google.com) to write your code.
+If you don't have Jupyter or another Python environment set up, you can use [Google Colab](https://colab.research.google.com) to write your code. Another option is to use [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/uc-love-data-week/intermediate-apis/HEAD) -- this will spin up a notebook with the contents of this repo. 
 
 
 **Install Libraries**
